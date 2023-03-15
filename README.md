@@ -28,13 +28,4 @@ I enjoy learning new things, helping other developers solve problems, and design
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladBozhinovski&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📌 Pinned Repositories
-
-<a href="https://github.com/VladBozhinovski/awesome-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VladBozhinovski&repo=awesome-project-1&theme=default" />
-</a>
-<a href="https://github.com/VladBozhinovski/cool-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VladBozhinovski&repo=cool-project-2&theme=default" />
-</a>
-
 If you like my work or find it useful, consider giving it a ⭐ or follow me to stay updated on my latest projects. Happy coding! 😄
