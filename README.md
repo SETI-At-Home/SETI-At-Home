@@ -5,8 +5,8 @@ I enjoy learning new things, helping other developers solve problems, and design
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/vlad-bozhinovski/)
-- [Twitter](https://twitter.com/VladBozhinovski)
+- [LinkedIn](https://www.linkedin.com/in/bozhinovski/)
+- [Twitter](https://twitter.com/IamBozhinovski)
 
 ## 🛠️ Technologies & Tools
 
