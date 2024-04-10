@@ -1,4 +1,4 @@
-Hi there, I'm Vladimir Bozhinovski! 👋
+Hi there, I'm Vlad! 👋
 I enjoy learning new things, helping other developers solve problems, and design clean and beautiful products.
 
 ## 🛠️ Technologies & Tools
